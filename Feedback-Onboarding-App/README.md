@@ -16,7 +16,7 @@ It provides a simple way for new hires to report issues, share suggestions, and 
 - SharePoint List
 
 ## Demo
-[Watch the app demo](./Images/Demo.mp4)
+![App Overview](./Images/Demo.gif)
 
 ## Screenshots
 ![App Overview](./Images/Overview.png)
