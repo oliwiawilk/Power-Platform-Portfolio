@@ -16,7 +16,7 @@ It provides a simple way for new hires to report issues, share suggestions, and 
 - SharePoint List
 
 ## Screenshots
-![App Overview](./docs/overview.png)
+![App Overview](./Images/overview.png)
 
 ## How It Works
 Employees submit onboarding feedback through a simple form by entering a title and description of their issue or suggestion.  
