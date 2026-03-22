@@ -15,8 +15,12 @@ It provides a simple way for new hires to report issues, share suggestions, and 
 - Power Fx  
 - SharePoint List
 
+## Demo
+[Watch the app demo](./Images/Demo.mp4)
+
 ## Screenshots
 ![App Overview](./Images/Overview.png)
+![App Overview](./Images/Screenshot1.png)
 
 ## How It Works
 Employees submit onboarding feedback through a simple form by entering a title and description of their issue or suggestion.  
