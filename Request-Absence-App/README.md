@@ -27,7 +27,7 @@ The solution uses SharePoint as a centralized data source, making absence tracki
 
 
 ## Screenshots
-![App Overview](./Images/App-screenshot1.png)
+![App Overview](./Images/App-screenshot.png)
 ![App Overview](./Images/App-screenshot2.png)
 ![App Overview](./Images/App-screenshot3.png)
 ![App Overview](./Images/App-screenshot4.png)
