@@ -28,12 +28,12 @@ The solution uses SharePoint as a centralized data source, making absence tracki
 
 ## Screenshots
 ![App Overview](./Images/App-screenshot.png)
-![App Overview](./Images/App-screenshot1.png)
-![App Overview](./Images/App-screenshot2.png)
-![App Overview](./Images/App-screenshot3.png)
-![App Overview](./Images/App-screenshot4.png)
-![App Overview](./Images/App-screenshot5.png)
-![App Overview](./Images/App-screenshot6.png)
+![App Overview](./Images/App-screenshot-1.png)
+![App Overview](./Images/App-screenshot-2.png)
+![App Overview](./Images/App-screenshot-3.png)
+![App Overview](./Images/App-screenshot-4.png)
+![App Overview](./Images/App-screenshot-5.png)
+![App Overview](./Images/App-screenshot-6.png)
 
 ## How It Works
 Employees submit a leave request through the app by selecting the absence type, request dates, and indicating whether coverage is required.
